@@ -1,7 +1,7 @@
 # ⚛️ QuantaFed
 
 <p align="center">
-  <img src="logo.png" alt="QuantaFed Logo" width="420"/>
+  <img src="Logo.png" alt="QuantaFed Logo" width="420"/>
 </p>
 
 <p align="center">
