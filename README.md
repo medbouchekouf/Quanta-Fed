@@ -114,3 +114,61 @@ QuantaFed brings together two rapidly developing areas:
                        │
                        ▼
                  Global Model
+
+
+---
+
+# ⭐ Support QuantaFed
+
+<p align="center">
+  <strong>If you find QuantaFed useful, interesting, or valuable for your research, please consider giving the repository a star.</strong>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME/QuantaFed/stargazers">
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/QuantaFed?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="GitHub Stars"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/QuantaFed/fork">
+  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/QuantaFed?style=for-the-badge&logo=github&label=Forks" alt="GitHub Forks"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/QuantaFed/issues">
+  <img src="https://img.shields.io/github/issues/YOUR_USERNAME/QuantaFed?style=for-the-badge&logo=github&label=Issues" alt="GitHub Issues"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/QuantaFed/network/members">
+  <img src="https://img.shields.io/github/watchers/YOUR_USERNAME/QuantaFed?style=for-the-badge&logo=github&label=Watchers" alt="GitHub Watchers"/>
+</a>
+
+</p>
+
+### 🌟 Why Star?
+
+A star helps the project:
+
+- 📈 Increase visibility
+- 🔬 Reach more researchers
+- 🤝 Attract contributors
+- 💡 Encourage further development
+- 🌍 Connect the project with the quantum-security community
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME/QuantaFed">
+    ⭐ <strong>Star QuantaFed on GitHub</strong> ⭐
+  </a>
+</p>
+
+---
+
+# 📊 Repository Statistics
+
+<p align="center">
+
+<img src="https://img.shields.io/github/repo-size/YOUR_USERNAME/QuantaFed?style=flat-square&logo=github" alt="Repository Size"/>
+<img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/QuantaFed?style=flat-square&logo=github" alt="Last Commit"/>
+<img src="https://img.shields.io/github/commit-activity/y/YOUR_USERNAME/QuantaFed?style=flat-square&logo=github" alt="Commit Activity"/>
+<img src="https://img.shields.io/github/contributors/YOUR_USERNAME/QuantaFed?style=flat-square&logo=github" alt="Contributors"/>
+
+</p>
