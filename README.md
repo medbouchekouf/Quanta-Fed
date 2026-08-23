@@ -79,7 +79,8 @@ QuantaFed studies this question through the integration of **photonic QKD** and 
 
 QuantaFed brings together two rapidly developing areas:
 
-```text
+
+
              QUANTUM COMMUNICATION
                        │
                        ▼
@@ -117,6 +118,12 @@ QuantaFed brings together two rapidly developing areas:
 
 
 ---
+
+
+
+
+
+
 
 # ⭐ Support QuantaFed
 
@@ -172,3 +179,8 @@ A star helps the project:
 <img src="https://img.shields.io/github/contributors/YOUR_USERNAME/QuantaFed?style=flat-square&logo=github" alt="Contributors"/>
 
 </p>
+
+
+
+
+
